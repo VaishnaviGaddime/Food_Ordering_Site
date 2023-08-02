@@ -1,2 +1,2 @@
 # Food_Ordering_Site
-Food ordering site with ineractive Ui
+Food ordering site with intractive Ui
